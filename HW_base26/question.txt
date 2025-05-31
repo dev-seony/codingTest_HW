@@ -1,0 +1,10 @@
+﻿26진법 산술연산 함수를 구현하시오. (4 Hour)
+A B C ------ Z
+0 1 2 ------ 25
+하나의 26진수는 127자리를 넘지 않고, 숫자개수는 100개를 넘지 않는다.
+주어진 question문자열을 계산하여 answer에 저장하라 
+(결과가 음수일 경우 문자열의 처음에 '-'로 표기할것)
+외부 함수는 사용할수 없다. (#include를 통한 외부 함수 사용 금지)
+
+ex)question
+CBA+GRDAGSDZFFDAFERFEFDAFAFGADFA-ERADFDAZDFWEQQ+FAFDCVARFERAFDFAFADFDAF
